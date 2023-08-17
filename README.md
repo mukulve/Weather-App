@@ -6,7 +6,7 @@ A react native weather app made with react native paper
 ## Features
 
 - Current weather
-- local and world news
+- local and world news (world news on home page & local news once location selected)
 
 
 ## Run Locally
